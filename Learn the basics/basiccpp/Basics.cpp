@@ -6,7 +6,7 @@ int main() {
     // string and getline
     // char
 
-    
+     
 
     return 0;
 }  
