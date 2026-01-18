@@ -2,8 +2,11 @@
 using namespace std;
 
 int main() {
-    int a;
-    cin >> a; 
-    cout << "Value of a: " << a;
+    // int, long, long long, float, double
+    // string and getline
+    // char
+
+    
+
     return 0;
-}
+}  
