@@ -1,0 +1,4 @@
+Enter A: Enter B: Enter C: 
+A:65
+B:212
+C:68
