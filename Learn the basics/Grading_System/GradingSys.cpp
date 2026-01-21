@@ -17,7 +17,7 @@ int main(){
         cout << "C";
     }
     // it continues like this
-    cout << "Heloo world";
+    cout << "Heloo worl";
 
     return 0;
 }
