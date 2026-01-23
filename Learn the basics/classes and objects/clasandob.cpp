@@ -12,7 +12,7 @@ public:
         cout << "A:" << a << endl;
         cout << "B:" << b << endl;
         cout << "C:" << c << endl;
-    }
+    } // lmao
 };
 //main function
 int main(){    
