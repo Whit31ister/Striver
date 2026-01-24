@@ -17,7 +17,7 @@ public:
 //main function
 int main(){    
     numbers num; // object declaire 
-
+//variable dec?
      int A;
      int B;
      int C;
