@@ -1,4 +1,4 @@
 Enter A: Enter B: Enter C: 
-A:65
-B:212
-C:68
+A:56789
+B:2893
+C:12498
