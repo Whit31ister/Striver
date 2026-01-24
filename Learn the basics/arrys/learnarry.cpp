@@ -8,6 +8,7 @@ int main(){
     {
         cin >> arry[i];
     }
+    arry[2] += 10;
     cout << arry[2];
     return 0;
 }
