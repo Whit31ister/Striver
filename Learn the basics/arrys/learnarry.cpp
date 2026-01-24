@@ -9,6 +9,6 @@ int main(){
         cin >> arry[i];
     }
     arry[2] += 10;
-    cout << arry[2];
+    cout << arry[2]; // output
     return 0;
 }
