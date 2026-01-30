@@ -18,9 +18,22 @@ public:
 }
 };
 
+class child: public Demo{
+    void access(){
+        //a = 10;
+        //b = 20;
+        c = 30;
+    }
+};
+
 int main(){
 Demo d;
+child c;
 d.set();
 d.show();
+//d.a = 5;
+//d.b = 10;
+d.c = 17;
+cout << d.c;
 return 0;
 }
