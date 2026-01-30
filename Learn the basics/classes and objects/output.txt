@@ -1,4 +1,1 @@
-Enter A: Enter B: Enter C: 
-A:56789
-B:2893
-C:12498
+10 20 30

@@ -2,6 +2,7 @@
 using namespace std;
 
 // class creation
+
 class numbers{
 public:
     int a;
@@ -12,7 +13,7 @@ public:
         cout << "A:" << a << endl;
         cout << "B:" << b << endl;
         cout << "C:" << c << endl;
-    } // lmao
+    }
 };
 //main function
 int main(){    
@@ -34,6 +35,7 @@ int main(){
      num.c = C;
 //class wale function ka call
      num.outting();
+    
 
     return 0;
 }
