@@ -11,4 +11,4 @@ int main(){
     arry[2] += 10;
     cout << arry[2]; // output
     return 0;
-}
+} // comit
