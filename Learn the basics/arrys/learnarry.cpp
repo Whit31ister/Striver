@@ -8,7 +8,7 @@ int main(){
     {
         cin >> arry[i];
     }
-    arry[2] += 10;
+    arry[2] += 18;
     cout << arry[2]; // output
     return 0;
 } // comit
