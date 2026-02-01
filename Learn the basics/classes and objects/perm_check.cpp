@@ -37,4 +37,4 @@ d.c = 17;
 cout << d.c;
 return 0;
 }
-// HELLO DAJWODJKAWHD
+//
