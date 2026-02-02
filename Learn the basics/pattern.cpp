@@ -2,8 +2,9 @@
 using namespace std;
 
 int main(){
-
-    cout << "out test" << endl;
-
+    // 2D array
+    int arry[3][5];
+    arry[3][5] = 74;
+    cout << arry[3][5];
     return 0;
-}
+} 
