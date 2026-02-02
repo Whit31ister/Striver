@@ -2,9 +2,11 @@
 using namespace std;
 
 int main(){
-    // 2D array
-    int arry[3][5];
-    arry[3][5] = 74;
-    cout << arry[3][5];
+    string name = "Veer Raj Kanwar";
+    for (int i = 0; i <= 500; i++)
+    {
+        cout << name << endl;
+    }
+    
     return 0;
 } 
