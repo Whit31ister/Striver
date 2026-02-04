@@ -3,6 +3,6 @@ using namespace std;
 
 int main(int argc, char const *argv[])
 {
-    //mani   
+    //mani   // mani
     return 0;
 }
